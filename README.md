@@ -1,7 +1,7 @@
 # omg
 
 ## Steps to run the project
-  - Make sure to have Docker andd Docker compose installed on your system
+  - Make sure to have Docker and Docker compose installed on your system
   - Run `docker-compose build` to build the images
   - Run `docker-compose up` to run the project.
   - For the demo purpose, a seed file is included, which gets executed on each run.
