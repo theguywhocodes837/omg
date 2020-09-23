@@ -15,3 +15,9 @@
 ## Assumptions
   - A user can only play one game at a time.
   - Only active games are shown in leaderboard.
+
+
+## Domain
+  - Games - uses hash data structure to store the data
+  - Leaderboard - uses sorted set to maintain the leaderboard.
+  - User - uses hash data structure to store the data
