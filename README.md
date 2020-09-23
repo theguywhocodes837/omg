@@ -8,11 +8,10 @@
 
 
 ## APIs
-  - `/<username>/rank` - to get a user's current rank.
+  - `/<username>/rank` - to get the user's current rank.
   - `/leaderboard` - to get the top rankers
   - `/leaderboard/<n>` - to get the top n rankers
 
 ## Assumptions
   - A user can only play one game at a time.
   - Only active games are shown in leaderboard.
-  
